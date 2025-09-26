@@ -1,0 +1,102 @@
+[
+  {
+    "id": "#1001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still can't access it.",
+    "customer": "Riyad",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "date": "1/17/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1002",
+    "title": "Payment Failure - Order #54321",
+    "description": "Customer's payment failed during checkout, and no amount was deducted.",
+    "customer": "Sakib",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "date": "2/3/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1003",
+    "title": "App Crash on Launch",
+    "description": "App crashes immediately when opening on Android version 11.",
+    "customer": "David Lee",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "date": "2/10/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1004",
+    "title": "Feature Request - Dark Mode",
+    "description": "Customer requests a dark mode feature for better usability at night.",
+    "customer": "Emily Davis",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "date": "2/15/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1005",
+    "title": "Incorrect Billing Amount",
+    "description": "Customer was charged twice for a single purchase.",
+    "customer": "John Smith",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "date": "2/20/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1007",
+    "title": "Slow Loading Dashboard",
+    "description": "Dashboard takes more than 30 seconds to load for some customers.",
+    "customer": "William Anderson",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "date": "3/5/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1006",
+    "title": "Unable to Upload Profile Picture",
+    "description": "Customer reports that uploading profile picture fails without error.",
+    "customer": "Olivia Martinez",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "date": "3/1/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1008",
+    "title": "Error 404 on Help Page",
+    "description": "Help page link returns a 404 error.",
+    "customer": "Sophia Wilson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "date": "3/10/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1010",
+    "title": "Account Suspension Without Notice",
+    "description": "Customer's account was suspended without any prior notification.",
+    "customer": "Isabella Moore",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "date": "3/15/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  },
+  {
+    "id": "#1009",
+    "title": "Notification Delay",
+    "description": "Customer reports delay of over 10 minutes for push notifications.",
+    "customer": "James Taylor",
+    "priority": "MEDIUM PRIORITY",
+    "status": "Open",
+    "date": "3/12/2024",
+    "iconImg": "https://i.ibb.co/Mk1c16PZ/calendar-regular-24.png"
+  }
+]
