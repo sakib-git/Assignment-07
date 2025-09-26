@@ -1,16 +1,15 @@
-# React + Vite
+### Assignment 7 questions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. What is JSX, and why is it used?
+2. What is the difference between State and Props?
+3. What is the useState hook, and how does it work?
+4. How can you share state between components in React?
+5. How is event handling done in React?
 
-Currently, two official plugins are available:
+#### Answers
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. jsx holo javascript r xml er combination . jsx html er vitor javascript lekhar jonne beborito hoy.
+2. state holo react variable , props holo parent component theka child component a data share korar maddhom.
+3. useState holo react er variable , jar value kono jaygay use korle pore oi state er value change hole UI a auto update hoye jay.
+4. parent component the child component a Unidirectional way te data share kora jay.
+5. beshirvag shomoy inline handler jemon onClick={} er maddhome react er event handling kaj kore.
